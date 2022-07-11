@@ -10,7 +10,7 @@ def getbitcoin():
 
     headers =  {
      'Accepts' : 'aplication/json',
-     'X-CMC_PRO_API_KEY': 'd8a7e9cc-e4d7-4c9e-906f-96ee0c7aa7be'
+     'X-CMC_PRO_API_KEY': 'your api key'
     }
 
     session = Session()
